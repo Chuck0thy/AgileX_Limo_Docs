@@ -1,4 +1,7 @@
 ORBBEC®Dabai is a depth camera based on binocular structured light 3D imaging technology.
+###### Specs
+![[Camera_Specs.png]]
+
 ## Use
 First start the camera by running this command
 ```
