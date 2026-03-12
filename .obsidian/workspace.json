@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AgileX Limo/Docs/Lidar Docs ~ Todo.md",
+                "file": "AgileX Limo/Docs/Arm Docs ~ Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lidar Docs ~ Todo"
+              "title": "Arm Docs ~ Todo"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "d5ab39dfa37c3b6f",
   "lastOpenFiles": [
-    "AgileX Limo/Lidar_Cartographer.png",
+    "README.md",
+    "AgileX Limo/Docs/Arm Docs ~ Todo.md",
+    "AgileX Limo/Docs/Camera Docs ~ Todo.md",
     "AgileX Limo/General Commands.md",
     "AgileX Limo/Docs/Lidar Docs ~ Todo.md",
+    "AgileX Limo/Lidar_Cartographer.png",
     "AgileX Limo/Lidar_Rviz.png",
     "AgileX Limo/Camera_Specs.png",
-    "AgileX Limo/Lidar_Log.png",
-    "AgileX Limo/Docs/Camera Docs ~ Todo.md"
+    "AgileX Limo/Lidar_Log.png"
   ]
 }

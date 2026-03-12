@@ -3,7 +3,7 @@ YDLIDAR T-mini Pro lidar is a 360° 2D lidar (hereinafter referred to as T-mini 
 ![[Lidar_Specs.png]]
 
 ## Start-up
->**Note:** Because ros1 and ros2 are both installed, each time you open a new terminal, please choose 1(ros1) or 2(ros2)
+>**Note:** Because ros1 and ros2 are both installed, each time you open a new terminal, please choose 2(ros2)
 
 **Open a new terminal and input 2. Then click enter.**
 Launch a new terminal and enter the command:
