@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AgileX Limo/Docs/Arm Docs ~ Todo.md",
+                "file": "AgileX Limo/Docs/Debug GUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arm Docs ~ Todo"
+              "title": "Debug GUI"
             }
           }
         ]
@@ -183,10 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5ab39dfa37c3b6f",
+  "active": "f9c2e769f63b29cb",
   "lastOpenFiles": [
-    "README.md",
+    "AgileX Limo/Debug_GUI.png",
     "AgileX Limo/Docs/Arm Docs ~ Todo.md",
+    "AgileX Limo/Docs/Debug GUI.md",
+    "AgileX Limo/~$Apps.md",
+    "AgileX Limo/Arm_Control_Follow.png",
+    "AgileX Limo/Docs/Arm Troubleshooting.md",
+    "AgileX Limo/Arm_Control_Sim.png",
+    "AgileX Limo/Arm_Control_GUI.png",
+    "AgileX Limo/Arm_Menu_USB.png",
+    "AgileX Limo/Arm_Menu_Transponder.png",
+    "AgileX Limo/Arm_Menu_Main.png",
+    "README.md",
     "AgileX Limo/Docs/Camera Docs ~ Todo.md",
     "AgileX Limo/General Commands.md",
     "AgileX Limo/Docs/Lidar Docs ~ Todo.md",
